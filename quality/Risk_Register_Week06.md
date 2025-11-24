@@ -30,3 +30,45 @@ Likelihood (L) and Impact (I) are rated on a scale of **1–5**.
 
 ---
 
+
+
+
+# **Top Priority Risks (Mitigation Plans)**  
+*Sorted by Risk Score (Highest to Lowest)*
+
+Below are the top three highest-score risks identified from the Risk Register along with their mitigation actions, responsible team members, and target deadlines.
+
+---
+
+## **1. R1 – Dataset incomplete, inaccurate, or not medically verified**  
+- **Score:** 15  
+- **Mitigation Strategy:**  
+  - Perform dataset cleaning, remove inconsistencies, and validate all medical information using trusted sources (WHO, Mayo Clinic).  
+  - Conduct peer review within the team.  
+- **Owner:** Data Analyst  
+- **Deadline:** Week 07  
+
+---
+
+## **2. R2 – NLP model fails to reach required ≥ 85% accuracy**  
+- **Score:** 12  
+- **Mitigation Strategy:**  
+  - Retrain the model using optimized hyperparameters and improved preprocessing.  
+  - Expand dataset and apply augmentation if needed.  
+- **Owner:** AI Developer  
+- **Deadline:** Week 08  
+
+---
+
+## **3. R10 – Ethical or safety concerns in chatbot responses**  
+- **Score:** 10  
+- **Mitigation Strategy:**  
+  - Add safety filters and predefined medical disclaimers.  
+  - Ensure all responses avoid diagnoses and follow safe-advice guidelines.  
+- **Owner:** Team Leader / Documentation Lead  
+- **Deadline:** Week 07  
+
+---
+
+*These items should be monitored weekly to prevent negative impact on project timeline and deliverables.*
+

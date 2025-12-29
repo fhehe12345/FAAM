@@ -14,3 +14,26 @@ Project: Personal Dr Medical-Chatbot
 | University | Academic oversight | Medium | High | Project meets academic standards |
 
 ---
+
+
+## Task 2 – Stakeholder Analysis
+
+### Stakeholder Engagement Strategy
+
+**High Power / High Interest**
+- Project Team, AI Developer, Lecturer  
+- *Strategy:* Manage closely with regular updates and reviews.
+
+**High Power / Low Interest**
+- University  
+- *Strategy:* Keep satisfied with milestone reports.
+
+**Low Power / High Interest**
+- End Users  
+- *Strategy:* Keep informed through testing and feedback.
+
+**Low Power / Low Interest**
+- External medical sources  
+- *Strategy:* Monitor and reference as needed.
+
+---

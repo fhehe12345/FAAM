@@ -1,17 +1,16 @@
-# Stakeholder List – Week 07  
-Project: Personal Dr Medical-Chatbot
-
-## Task 1 – Identify Project Stakeholders
-
+## Task 1 – Identify Project Stakeholders (Revised)
+---
 | Stakeholder | Role | Interest Level | Influence Level | Key Expectations |
 |------------|------|----------------|-----------------|------------------|
-| End Users (Patients) | Use chatbot for health guidance | High | Medium | Accurate, safe, easy-to-understand medical advice |
-| Project Team | Develop and manage the project | High | High | Clear tasks, smooth collaboration, timely completion |
-| AI Developer | Build and train NLP model | High | High | Quality dataset, achievable accuracy target |
-| Data Analyst | Prepare medical datasets | High | Medium | Clean, verified, well-labelled data |
-| UI/UX Designer | Design chatbot interface | Medium | Medium | Simple, intuitive interface |
-| Lecturer / Advisor | Guide and evaluate project | High | High | Ethical AI use, proper documentation |
-| University | Academic oversight | Medium | High | Project meets academic standards |
+| End Users (Patients) | Use chatbot for health guidance | High | Medium | Safe, accurate, easy-to-understand medical information |
+| Project Team | Develop and manage the project | High | High | Clear requirements, timely completion |
+| AI Developer | Build and train NLP model | High | High | Verified data, achievable accuracy targets |
+| Data Analyst | Prepare medical datasets | High | Medium | Clean, labelled, validated medical data |
+| UI/UX Designer | Design chatbot interface | Medium | Medium | Simple and intuitive design |
+| **Medical Expert / Healthcare Professional** | Validate medical content and safety | High | High | Medically accurate, non-diagnostic responses |
+| **Medical Authorities (e.g., WHO, MOH Malaysia)** | Provide trusted medical guidelines | Medium | High | Proper use of official medical information |
+| Lecturer / Advisor | Academic guidance and evaluation | High | High | Ethical AI, learning outcomes met |
+| University | Academic oversight | Medium | High | Compliance with academic standards |
 
 ---
 

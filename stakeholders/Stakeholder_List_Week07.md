@@ -7,8 +7,8 @@
 | AI Developer | Build and train NLP model | High | High | Verified data, achievable accuracy targets |
 | Data Analyst | Prepare medical datasets | High | Medium | Clean, labelled, validated medical data |
 | UI/UX Designer | Design chatbot interface | Medium | Medium | Simple and intuitive design |
-| **Medical Expert / Healthcare Professional** | Validate medical content and safety | High | High | Medically accurate, non-diagnostic responses |
-| **Medical Authorities (e.g., WHO, MOH Malaysia)** | Provide trusted medical guidelines | Medium | High | Proper use of official medical information |
+| Medical Expert / Healthcare Professional | Validate medical content and safety | High | High | Medically accurate, non-diagnostic responses |
+| Medical Authorities (e.g., WHO, MOH Malaysia) | Provide trusted medical guidelines | Medium | High | Proper use of official medical information |
 | Lecturer / Advisor | Academic guidance and evaluation | High | High | Ethical AI, learning outcomes met |
 | University | Academic oversight | Medium | High | Compliance with academic standards |
 

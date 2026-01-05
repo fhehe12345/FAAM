@@ -1,4 +1,4 @@
-# Reflection – Project Time Management
+# MUHAMMAD ADIB BIN ABD. HAFIZ
 
 ### Why is identifying the critical path important for project managers?
 The critical path helps project managers prioritize tasks that cannot be delayed. It allows better resource allocation and ensures focus on activities that determine project duration.

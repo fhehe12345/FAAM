@@ -14,3 +14,18 @@
 | H | Final Submission & Deployment | 1 |
 
 ---
+
+## Part 2 – Identify Activity Dependencies
+
+| Activity | Predecessor(s) |
+|--------|----------------|
+| A | — |
+| B | A |
+| C | B |
+| D | C |
+| E | D |
+| F | E |
+| G | F |
+| H | G |
+
+---
